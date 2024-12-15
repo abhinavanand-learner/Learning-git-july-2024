@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 feat_1..abhinav..
 feat_1..EVAN...
-=======
 feat_1..abhinav..Rahul
->>>>>>> feat_3
